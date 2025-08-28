@@ -1,9 +1,5 @@
 /* USER CODE BEGIN Header */
 /**
- *Name: Jesse Seidel
- *CWID: 12342867
- *Lab Number: 5
- *Due Date: 4/24/2025
   ******************************************************************************
   * @file           : main.c
   * @brief          : Main program body
